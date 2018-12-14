@@ -10,6 +10,6 @@ public class Test {
 	}
 
 	static void testMe()	{
-		System.out.println("I am test");
+		System.out.println("Hello. I am test");
 	}
 }
